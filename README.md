@@ -1,4 +1,4 @@
-# React Hook Form Example
+# React Hook Form 
 
 A simple React form demonstrating input validation using [react-hook-form](https://react-hook-form.com/) with beautiful styling.
 
